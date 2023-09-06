@@ -6,7 +6,7 @@
 </div>
 
 ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)
-![Discord Shield](https://discordapp.com/)AMAKUI#3423,
+![Discord Shield](https://discordapp.com/)
 
 
 <p align="center">
