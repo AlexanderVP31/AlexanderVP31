@@ -6,7 +6,7 @@
 </div>
 
 ![](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)
-![Discord Shield](https://discordapp.com)
+![Discord Shield](https://discord.com/channels/@me/1109163032845762662)
 
 
 <p align="center">
