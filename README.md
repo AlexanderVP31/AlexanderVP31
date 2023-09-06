@@ -5,7 +5,7 @@
 <img src="Banner.png">
 </div>
 
-![https://img.shields.io/badge/LinkedIn-0077B5](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)
+![https://LinkedIn-0077B5](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
