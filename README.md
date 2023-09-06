@@ -13,7 +13,7 @@
 <br>
 <p align="center">
 
-🔥 Me destaco en varios campos profesionales. Soy un desarrollador creativo de Perú, con más de 4 años de experiencia, me especializo en el diseño y desarrollo de sitios web dinámicos con tecnologías modernas como Angular, React, Three JS, Java, Spring Boot y .Net. También creo gráficos promocionales,juegos y animaciones. Lo que me distingue es mi capacidad para combinar la experiencia técnica con un buen ojo para el diseño, lo que da como resultado proyectos hermosos y funcionales.
+🔥 Soy un desarrollador creativo de Perú, con más de 4 años de experiencia, me especializo en el diseño y desarrollo de sitios web dinámicos con tecnologías modernas como Angular, React, Three JS, Java, Spring Boot y .Net. También creo gráficos promocionales,juegos y animaciones. Lo que me distingue es mi capacidad para combinar la experiencia técnica con un buen ojo para el diseño, lo que da como resultado proyectos hermosos y funcionales.
 
 🎓 Estudio la carrera **Computación e Informática**.(actualizado: ya terminé la carrera, aprobado). Otros varios cursos de Udemy, y la carrera de **Full-Stack ** entre otras.
 
