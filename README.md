@@ -5,9 +5,9 @@
 <img src="Banner.png">
 </div>
 
-[![](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)]
+![](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)
 ![Discord Shield](https://discord.com/channels/@me/1109163032845762662)
-
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejandrovera"/></a>
