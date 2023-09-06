@@ -5,7 +5,7 @@
 <img src="Banner.png">
 </div>
 
-![](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)
+[![](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)]
 ![Discord Shield](https://discord.com/channels/@me/1109163032845762662)
 
 
