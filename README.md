@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a>AlexDevs</a> 👋</h1>
 </div>
 <div align="center">
-<img src="Banner.png">
+<img src="full-stack.jpg">
 </div>
 
 ![](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)
