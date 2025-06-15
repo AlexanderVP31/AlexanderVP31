@@ -21,7 +21,7 @@
 
 ☎️ También me interesa lo social, es por eso que enseño lo que eh aprendido y de mi experiencia por <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" className="w-15 h-15"/> [discord](https://discord.com/) AMAKUI#3423, y me encanta ser proactivo y conciliador en las dinámicas de grupo.
 
-💎 Síganme o agréguenme si lo desean en linkedIn: https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/
+💎 Síganme o agréguenme si lo desean en linkedIn: ![](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)
 
 ❌ No me encuentro en busca de empleo actualmente.
 
