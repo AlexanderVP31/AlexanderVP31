@@ -19,7 +19,7 @@
 
 🚀 Mi objetivo es innovar, encontrar algo que no haya sido visto y desarrollarlo, un software, un framework, alguna modalidad de coding. 
 
-☎️ También me interesa lo social, es por eso que enseño lo que eh aprendido y de mi experiencia por [discord](https://discord.com/) AMAKUI#3423, y me encanta ser proactivo y conciliador en las dinámicas de grupo.
+☎️ También me interesa lo social, es por eso que enseño lo que eh aprendido y de mi experiencia por https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg [discord](https://discord.com/) AMAKUI#3423, y me encanta ser proactivo y conciliador en las dinámicas de grupo.
 
 💎 Síganme o agréguenme si lo desean en linkedIn: https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/
 
