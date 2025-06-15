@@ -1,39 +1,41 @@
 <div align="center">
-<h1 align="center">Hola, soy <a>AlexDevs</a> 👋</h1>
+  <h1>Hola, soy <a>AlexDevs</a> 👋</h1>
+  <img src="full-stack.jpg" alt="Full Stack Developer" />
 </div>
-<div align="center">
-<img src="full-stack.jpg">
-</div>
-
-![](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejandrovera"/></a>
+  <a href="https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/AMAKUI#3423" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
-<br>
-<p align="center">
 
-🔥 Soy un desarrollador creativo de Perú, con más de 4 años de experiencia, me especializo en el diseño y desarrollo de sitios web dinámicos con tecnologías modernas como Angular, React, Three JS, Java, Spring Boot y .Net. También creo gráficos promocionales,juegos y animaciones. Lo que me distingue es mi capacidad para combinar la experiencia técnica con un buen ojo para el diseño, lo que da como resultado proyectos hermosos y funcionales.
+---
 
-🎓 Estudio la carrera **Computación e Informática**.(actualizado: ya terminé la carrera, aprobado). Otros varios cursos de Udemy, y la carrera de **Full-Stack ** entre otras.
+🔥 Soy un desarrollador creativo de Perú, con más de 4 años de experiencia. Me especializo en el diseño y desarrollo de sitios web dinámicos con tecnologías modernas como **Angular**, **React**, **Three.js**, **Java**, **Spring Boot** y **.Net**. También creo gráficos promocionales, juegos y animaciones.  
+Lo que me distingue es mi capacidad para combinar la experiencia técnica con un buen ojo para el diseño, logrando proyectos **hermosos y funcionales**.
 
-🚀 Mi objetivo es innovar, encontrar algo que no haya sido visto y desarrollarlo, un software, un framework, alguna modalidad de coding. 
+🎓 Finalicé la carrera de **Computación e Informática**. Además, realicé diversos cursos en **Udemy** y completé la carrera de **Full-Stack Developer**, entre otros estudios.
 
-☎️ También me interesa lo social, es por eso que enseño lo que eh aprendido y de mi experiencia por <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" className="w-15 h-15"/> [discord](https://discord.com/) AMAKUI#3423, y me encanta ser proactivo y conciliador en las dinámicas de grupo.
+🚀 Mi objetivo es innovar, desarrollar algo nuevo: un software, un framework o una modalidad de coding.
 
-💎 Síganme o agréguenme si lo desean en linkedIn: ![](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/)
+☎️ Me interesa lo social. Enseño lo aprendido en [Discord](https://discord.com/users/AMAKUI#3423) (usuario: **AMAKUI#3423**) y soy proactivo y conciliador en equipos de trabajo.
 
-❌ No me encuentro en busca de empleo actualmente.
+💎 Puedes agregarme en [LinkedIn](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/).
 
+❌ Actualmente, **no me encuentro en búsqueda de empleo**.
 
-Saludos cordiales.
+Saludos cordiales,  
+<h3>Alex V.</h3>
 
-<h3>Alex V.</h3></p>
+---
 
-<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2 align="center">Tecnologías conocidas 👨🏻‍💻</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,spring,css,html,js,react,angular,nodejs,typescript,mysql,postgres,firebase,git,github,materialui,postman,idea,eclipse,vscode,bash,linux,ai,ps&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,java,spring,css,html,js,react,angular,nodejs,typescript,mysql,postgres,firebase,git,github,materialui,postman,idea,eclipse,vscode,bash,linux,ai,ps,discord&perline=14" />
   </a>
 </p>
