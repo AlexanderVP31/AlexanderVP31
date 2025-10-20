@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy <a>AlexDevs</a> 👋</h1>
-  <img src="full-stack.jpg" alt="Full Stack Developer" />
+  <img src="logo_size_invert.jpg" alt="Full Stack Developer" />
 </div>
 
 <p align="center">
