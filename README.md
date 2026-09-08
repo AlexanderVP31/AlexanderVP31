@@ -29,6 +29,10 @@ Lo que me distingue es mi capacidad para combinar la experiencia técnica con un
 Saludos cordiales,  
 <h3>Alex VP.</h3>
 
+<div align="center">
+  <img src="iconmatrix.png" alt="icon" />
+</div>
+
 ---
 
 <h2 align="center">Tecnologías conocidas 👨🏻‍💻</h2>
