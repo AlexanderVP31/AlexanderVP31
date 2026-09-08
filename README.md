@@ -27,7 +27,7 @@ Lo que me distingue es mi capacidad para combinar la experiencia técnica con un
 
 
 Saludos cordiales,  
-<h3>Alex V.</h3>
+<h3>Alex VP.</h3>
 
 ---
 
