@@ -25,7 +25,6 @@ Lo que me distingue es mi capacidad para combinar la experiencia técnica con un
 
 💎 Puedes agregarme en [LinkedIn](https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/).
 
-❌ Actualmente, **no me encuentro en búsqueda de empleo**.
 
 Saludos cordiales,  
 <h3>Alex V.</h3>
